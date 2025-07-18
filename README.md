@@ -1,1 +1,1 @@
-# Wee Grad
+# WeeGrad
